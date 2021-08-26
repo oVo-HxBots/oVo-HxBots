@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oVo-HxBots&theme=vue&langs_count=10)
 
-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oVo-HxBots&repo=ovo-multiupload&theme=vue)
+- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oVoIndia&repo=MultiUpload-Bot&theme=vue)
