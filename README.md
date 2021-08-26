@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=oVoIndia&count_private=true&show_icons=true&theme=vue)
+- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=oVo8&count_private=true&show_icons=true&theme=vue)
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oVoIndia&theme=vue&langs_count=10)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oVo-HxBots&theme=vue&langs_count=10)
 
 - ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oVoIndia&repo=MultiUpload-Bot&theme=vue)
