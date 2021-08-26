@@ -19,3 +19,4 @@ Here are some info about meh:
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oVo-HxBots&theme=vue&langs_count=10)
 
 - ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oVoIndia&repo=MultiUpload-Bot&theme=vue)
+- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oVo-HxBots&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
