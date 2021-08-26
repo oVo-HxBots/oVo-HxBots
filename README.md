@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **oVo-HxBots/oVo-HxBots** is  ✨ _special_ ✨
 
 Here are some info about meh:
@@ -12,7 +11,6 @@ Here are some info about meh:
 - 💬 Don't Ask me about my work..
 - 📫 How to reach me: 
 
--->
 
 
 - **Glad to see you here** ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
