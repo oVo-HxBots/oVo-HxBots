@@ -1,23 +1,22 @@
 ### Hi there 👋
 
 <!--
-**oVo-HxBots/oVo-HxBots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oVo-HxBots/oVo-HxBots** is  ✨ _special_ ✨
 
-Here are some ideas to get you started:
+Here are some info about meh:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on **__online storage repo__**
+- 🌱 I’m currently learning **__java__**
+- 👯 I’m looking to collaborate on **__nill__**
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Don't Ask me about my work..
+- 📫 How to reach me: 
+
 -->
 
 
-
-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=oVo8&count_private=true&show_icons=true&theme=vue)
+- **Glad to see you here** ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=oVo-HxBots&count_private=true&show_icons=true&theme=vue)
 
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oVo-HxBots&theme=vue&langs_count=10)
 
