@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: oVo-HxBots/blog-post-workflow@main
         with:
-          feed_list: 'https://hxbots.eu.org/feed
+          feed_list: 'https://hxbots.eu.org/feed'
