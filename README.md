@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Enable MFA for Azure AD Users](https://hxbots.eu.org/2023/04/enable-mfa-for-azure-ad-users/)
 - [Install Windows Server 2022 on Digital Ocean](https://hxbots.eu.org/2023/03/install-windows-server-2022-on-digital-ocean/)
 - [Create GitHub Student Developer Pack Free.](https://hxbots.eu.org/2023/02/create-github-student-developer-pack-free/)
 - [Canva Student Trick &lpar;Unlimited&rpar;](https://hxbots.eu.org/2023/02/canva-student-trick-unlimited/)
 - [Deploy Youtube Uploader Bot on Render.](https://hxbots.eu.org/2022/12/deploy-youtube-uploader-bot-on-render/)
-- [Get cPanel Hosting At Rs1.99/mo Only.](https://hxbots.eu.org/2022/10/get-cpanel-hosting-at-rs-1-99-mo-only/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
