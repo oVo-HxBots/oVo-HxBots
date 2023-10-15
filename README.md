@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DD Windows OS to Cloud Linux VM &lpar;Oracle /GCP /Azure&rpar;](https://hxbots.eu.org/2023/10/dd-windows-os-to-cloud-linux-vm-oracle-gcp-azure/)
 - [Free 5 cPanel Accounts – cPanel Hosting](https://hxbots.eu.org/2023/09/free-5-cpanel-accounts-cpanel-hosting/)
 - [Free VPS with 5G RAM and 2vCPU VPS. Root Access](https://hxbots.eu.org/2023/07/free-vps-with-5g-ram-and-2vcpu-vps-root-access/)
 - [Enable MFA for Azure AD Users](https://hxbots.eu.org/2023/04/enable-mfa-for-azure-ad-users/)
 - [Install Windows Server 2022 on Digital Ocean](https://hxbots.eu.org/2023/03/install-windows-server-2022-on-digital-ocean/)
-- [Create GitHub Student Developer Pack Free.](https://hxbots.eu.org/2023/02/create-github-student-developer-pack-free/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
