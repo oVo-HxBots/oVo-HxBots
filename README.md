@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Explore Unlimited Python Hosting: Your Ultimate Guide](https://hxbots.eu.org/2023/10/explore-unlimited-python-hosting-your-ultimate-guide/)
+- [Python Hosting: Free VS Paid – What’s Best For You?](https://hxbots.eu.org/2023/10/python-hosting-free-vs-paid-whats-best-for-you/)
+- [Mastering Python Hosting with cPanel](https://hxbots.eu.org/2023/10/mastering-python-hosting-with-cpanel/)
 - [Resolving Oracle Cloud “Out of Capacity” issue and getting free VPS with 4 ARM cores / 24GB of memory](https://hxbots.eu.org/2023/10/resolving-oracle-cloud-out-of-capacity-issue-and-getting-free-vps-with-4-arm-cores-24gb-of-memory-using-php/)
 - [DD Windows OS to Cloud Linux VM &lpar;Oracle /GCP /Azure&rpar;](https://hxbots.eu.org/2023/10/dd-windows-os-to-cloud-linux-vm-oracle-gcp-azure/)
-- [Free 5 cPanel Accounts – cPanel Hosting](https://hxbots.eu.org/2023/09/free-5-cpanel-accounts-cpanel-hosting/)
-- [Free VPS with 5G RAM and 2vCPU VPS. Root Access](https://hxbots.eu.org/2023/07/free-vps-with-5g-ram-and-2vcpu-vps-root-access/)
-- [Enable MFA for Azure AD Users](https://hxbots.eu.org/2023/04/enable-mfa-for-azure-ad-users/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
