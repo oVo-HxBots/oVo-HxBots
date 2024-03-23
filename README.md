@@ -15,11 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Install MongoDB on Red Hat OS](https://hxbots.eu.org/2024/01/how-to-install-mongodb-on-red-hat-os/)
-- [Explore Unlimited Python Hosting: Your Ultimate Guide](https://hxbots.eu.org/2023/10/explore-unlimited-python-hosting-your-ultimate-guide/)
-- [Python Hosting: Free VS Paid – What’s Best For You?](https://hxbots.eu.org/2023/10/python-hosting-free-vs-paid-whats-best-for-you/)
-- [Mastering Python Hosting with cPanel](https://hxbots.eu.org/2023/10/mastering-python-hosting-with-cpanel/)
-- [Resolving Oracle Cloud “Out of Capacity” issue and getting free VPS with 4 ARM cores / 24GB of memory](https://hxbots.eu.org/2023/10/resolving-oracle-cloud-out-of-capacity-issue-and-getting-free-vps-with-4-arm-cores-24gb-of-memory-using-php/)
+- [Hello world!](https://hxbots.eu.org/2024/03/23/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
